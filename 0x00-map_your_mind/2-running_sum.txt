@@ -1,0 +1,10 @@
+Create a pseudocode where a user will enter numbers that will be added to the sum
+and when a negative number is encountered, stop adding numbers and write out the
+final result
+
+1.  Initialize the Sum of the values as zero.
+2.  Create a While Loop that runs only while True.
+3.  Inside the While Loop get input from the user and assign it a variable eg Val.
+4.  Check if Val is less than 0.
+6.  If Val is less than zero then break the loop.
+7.  Display the final result of Sum plus Val.

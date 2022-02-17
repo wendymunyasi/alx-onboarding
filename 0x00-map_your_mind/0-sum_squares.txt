@@ -1,0 +1,7 @@
+Create pseudo code to calculate the sum of squares of a given input of numbers
+
+1.  Get the numbers from the user's input and set them to N.
+2.  Initialize the SUM of the numbers as 0 and set i to 1.
+3.  Read the N numbers.
+4.  Check to see IF i < N then square the value of i and add it to the SUM.
+5.  Display the SUM.

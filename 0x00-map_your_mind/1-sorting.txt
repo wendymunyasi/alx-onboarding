@@ -1,0 +1,10 @@
+Create pseudo code that reads in three numbers and writes them all in sorted order.
+
+1.  Give the three numbers variables Num1, Num2 and Num3.
+2.  Read the three numbers.
+3.  Check if Num1 is less than both Num2 and Num3 then  print the result.
+4.  Check if Num1 is less than both Num3 and Num2 then  print the result.
+5.  Check if Num2 is less than both Num1 and Num3 then  print the result.
+6.  Check if Num2 is less than both Num3 and Num1 then  print the result.
+7.  Check if Num3 is less than both Num2 and Num1 then  print the result.
+8.  Otherwise print the result.
